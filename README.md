@@ -1,4 +1,3 @@
-# power-bi
 
 # Sales Dashboard Image 
 
